@@ -1,4 +1,4 @@
-baseURL = "http://example.com"
+baseURL = "/myOrianna"
 languageCode = "en-us"
 themesDir    = "themes"
 theme                      = "AllinOne"
