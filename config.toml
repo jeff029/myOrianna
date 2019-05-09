@@ -12,7 +12,7 @@ hasCJKLanguage             = true
 summaryLength              = 200
 Paginate                   = 3
 
-title                      = "Orianna"
+title                      = "KTZL"
 
 pygmentsuseclasses         = true
 
@@ -49,10 +49,11 @@ pygmentsuseclasses         = true
  
 
 [params]
-  faviconfile              = "img/zheng.png"               # from static/
-  avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
-  author                   = "Orianna"
-  description              = ["Be myself.", "Love the wonderful world.", "Do the right things and be a better man."]           # appears in the site header when set to a non-empty string
+  faviconfile              = "img/LogoV.png"               # from static/
+  avatar                   = "img/LogoV.jpg"             # path to image in static dir e.g img/avatar.png 
+  author                   = "KTZL"
+  description              = ["Welcome to Karma Tekchen Zabsal Ling",
+"Toronto Thrangu Centre",  "Through this site, we hope to connect with all students of Lama Tashi worldwide and to anyone who is interested to learn more about Tibetan Buddhism."]           # appears in the site header when set to a non-empty string
   welcome_head             = "Hello, World!"
   welcome_word             = "~ No Day But Today ~"
 
@@ -73,15 +74,15 @@ pygmentsuseclasses         = true
   katex                    = true
 
   # links
-  email                    = "you@email.com"
-  github                   = "//github.com/you"
-  linkedin                 = "//linkedin.com/in/you"
-  facebook                 = "//facebook.com/you"
-  googleplus               = "//google.com/you"
-  twitter                  = "//twitter.com/you" 
-  px500                    = "//px500"
-  instagram                = "//instagram.com/you"
-  include_rss              = true                          # include RSS <link> tag in <head> and show RSS icon
+  email                    = "ktzl88@gmail.com"
+ # github                   = "//github.com/you"
+ # linkedin                 = "//linkedin.com/in/you"
+  facebook                 = "//facebook.com/ktzl.org"
+ # googleplus               = "//google.com/ktzl88@gmail.com"
+# twitter                  = "//twitter.com/you" 
+ # px500                    = "//px500"
+ # instagram                = "//instagram.com/you"
+ # include_rss              = true                          # include RSS <link> tag in <head> and show RSS icon
   
   # analytics
   googleAnalytics          = "your-google-analytic-id"
